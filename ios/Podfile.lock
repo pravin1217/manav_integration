@@ -1,0 +1,110 @@
+PODS:
+  - Flutter (1.0.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - geolocator_apple (1.2.0):
+    - Flutter
+  - google_maps_flutter_ios (0.0.1):
+    - Flutter
+    - GoogleMaps
+  - GoogleMaps (5.2.0):
+    - GoogleMaps/Maps (= 5.2.0)
+  - GoogleMaps/Base (5.2.0)
+  - GoogleMaps/Maps (5.2.0):
+    - GoogleMaps/Base
+  - libphonenumber_plugin (0.0.1):
+    - Flutter
+    - PhoneNumberKit
+  - location (0.0.1):
+    - Flutter
+  - MTBBarcodeScanner (5.0.11)
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - PhoneNumberKit (3.3.4):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.4)
+    - PhoneNumberKit/UIKit (= 3.3.4)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.4)
+  - PhoneNumberKit/UIKit (3.3.4):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - qr_code_scanner (0.2.0):
+    - Flutter
+    - MTBBarcodeScanner
+  - razorpay-pod (1.3.1)
+  - razorpay_flutter (1.1.10):
+    - Flutter
+    - razorpay-pod
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - geolocator_apple (from `.symlinks/plugins/geolocator_apple/ios`)
+  - google_maps_flutter_ios (from `.symlinks/plugins/google_maps_flutter_ios/ios`)
+  - libphonenumber_plugin (from `.symlinks/plugins/libphonenumber_plugin/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/ios`)
+  - qr_code_scanner (from `.symlinks/plugins/qr_code_scanner/ios`)
+  - razorpay_flutter (from `.symlinks/plugins/razorpay_flutter/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/ios`)
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+    - MTBBarcodeScanner
+    - PhoneNumberKit
+    - razorpay-pod
+    - Toast
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  geolocator_apple:
+    :path: ".symlinks/plugins/geolocator_apple/ios"
+  google_maps_flutter_ios:
+    :path: ".symlinks/plugins/google_maps_flutter_ios/ios"
+  libphonenumber_plugin:
+    :path: ".symlinks/plugins/libphonenumber_plugin/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/ios"
+  qr_code_scanner:
+    :path: ".symlinks/plugins/qr_code_scanner/ios"
+  razorpay_flutter:
+    :path: ".symlinks/plugins/razorpay_flutter/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  fluttertoast: eb263d302cc92e04176c053d2385237e9f43fad0
+  geolocator_apple: cc556e6844d508c95df1e87e3ea6fa4e58c50401
+  google_maps_flutter_ios: 3e0b99383a8003b8169d06e7e324170bd0424105
+  GoogleMaps: 025272d5876d3b32604e5c080dc25eaf68764693
+  libphonenumber_plugin: e8a7d64a6624a7c25f2c4ab0b7ead2a8e341e35e
+  location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
+  package_info_plus: 6c92f08e1f853dc01228d6f553146438dafcd14e
+  path_provider_foundation: c68054786f1b4f3343858c1e1d0caaded73f0be9
+  PhoneNumberKit: 441e8b26ec88d598e3591de9061eff18f5dd12e8
+  qr_code_scanner: bb67d64904c3b9658ada8c402e8b4d406d5d796e
+  razorpay-pod: 1ca021af16022084c1b368be9f030a4931f1e5f8
+  razorpay_flutter: 84b3bfd206ae9c9c2a9ba585524a1b3d8102b6c1
+  shared_preferences_foundation: 986fc17f3d3251412d18b0265f9c64113a8c2472
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: c7f21a73dbbde66477774cbd3b89c6e200d6470e
+
+COCOAPODS: 1.12.0
